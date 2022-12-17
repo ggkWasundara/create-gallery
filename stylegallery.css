@@ -1,0 +1,58 @@
+*{
+    margin:5px;
+    
+}
+
+h1{
+    text-align: center;
+    font-family:fantasy;
+    padding: 50px;
+    font-size:50;
+    color:dimgrey
+
+    
+}
+
+h2{
+
+    padding-bottom: 11px;
+    font-family:cursive;
+    
+}
+
+h3{
+    
+   ;
+    
+}
+
+p{
+   
+    font-family: monospace;
+    font-size: 13;
+    color:darkslategray;
+    
+}
+img{
+    height:220px;
+    width:220px;
+    padding:2px;
+    
+    
+}
+
+
+section{
+    display: flex;
+    padding: 20px;
+    
+}
+
+.card{
+    padding-right: 20px;
+    box-shadow: 5px 5px 20px gray;
+    
+}
+
+
+
